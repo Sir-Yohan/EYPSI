@@ -31,10 +31,10 @@
 
 @media (max-width: 767.98px) {
     .back-to-top {
-        width: 20px; /* Smaller width */
-        height: 30px; /* Smaller height */
-        right: 8px; 
-        bottom: 8px;
+        width: 1.8rem; /* Smaller width */
+        height: 1.9rem; /* Smaller height */
+        right: 0.6rem; 
+        bottom: 0.8rem;
         display: flex; /* Enable flexbox */
         align-items: center; /* Center vertically */
         justify-content: center; /* Center horizontally */
